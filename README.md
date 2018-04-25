@@ -17,3 +17,4 @@ Create the following functions:
 The functions should make use of closures to achieve the specified goals.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-advanced-scope-closures-lab' title='Advanced Scope Closures Lab'>Advanced Scope Closures Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Closures Lab</p>
